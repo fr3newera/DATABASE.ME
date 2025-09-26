@@ -10,5 +10,10 @@
     "gmail": "admin@gmail.com",
     "password": "12345678Aa#",
     "apikey": "adminmg0sy5d3"
+  },
+  {
+    "username": "Admin",
+    "gmail": "admin",
+    "password": "admin"
   }
 ]
